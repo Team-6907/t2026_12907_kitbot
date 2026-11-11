@@ -1,9 +1,9 @@
 # t2026_12907_kitbot
 
-> FRC Team 6907 The G.O.A.T. · 2026 暑期 Workshop 的 KitBot 教学机器人代码（6907 / 12907 新队员培训用）。
+> FRC Team 6907 The G.O.A.T. · 2026 暑期 Workshop 的 KitBot 教学机器人代码（6907 新队员培训用；“12907” 是队内对新生的戏称）。
 
 Robot code for the kitbot used in the team's 2026 summer workshop, where
-6907 / 12907 rookies learn FRC programming. It is a teaching project: small,
+Team 6907's rookies (nicknamed "12907" inside the team) learn FRC programming. It is a teaching project: small,
 heavily commented (in Chinese), and intentionally simple.
 
 ## Robot
